@@ -1,6 +1,6 @@
-<center> ![Topo Fatec](https://user-images.githubusercontent.com/71477357/101296199-e51d7300-3800-11eb-98d4-d03efcfdb7eb.png) </center>
+![Topo Fatec](https://user-images.githubusercontent.com/71477357/101296199-e51d7300-3800-11eb-98d4-d03efcfdb7eb.png)
 
-# <center>🔍 Analise de Dados Políticos 💾 <br/> Mulheres Negras Eleitas em 2020  </center>
+# <center> 🔍 Analise de Dados Políticos 💾 <br/> Mulheres Negras Eleitas em 2020  </center>
  Análise de dados políticos sobre o número de candidatas negras eleitas no 1º turno em 2020
 
 Este é um projeto de Análise de dados públicos designado pela FATEC São José dos Campos com um fim exclusivamente didático.
