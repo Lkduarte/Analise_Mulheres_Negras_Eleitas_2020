@@ -4,6 +4,7 @@
  Análise de dados políticos sobre o número de candidatas negras eleitas no 1º turno em 2020
 
 Este é um projeto de Análise de dados públicos designado pela FATEC São José dos Campos com um fim exclusivamente didático.
+
 Análise de dados feita com a utilização do Jupyter Notebook.
 
 ### Desenvolvido por:
