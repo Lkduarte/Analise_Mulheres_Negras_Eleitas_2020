@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 <center> ![Topo Fatec](https://user-images.githubusercontent.com/71477357/101296199-e51d7300-3800-11eb-98d4-d03efcfdb7eb.png) </center>
 
 # <center>🔍 Analise de Dados Políticos 💾 <br/> Mulheres Negras Eleitas em 2020  </center>
@@ -17,11 +15,3 @@ Análise de dados feita com a utilização do Jupyter Notebook.
    + Você também pode acessar o arquivo de dados eleitorais na pasta de dados deste GitHub.
    
 Data de download: 05/11/2020
-=======
-# Analise_Mulheres_Negras_Eleitas_2020
- Análise de dados políticos sobre o número de candidadas negras eleitas em 2020
->>>>>>> parent of c62ab56... ipynb
-=======
-# Analise_Mulheres_Negras_Eleitas_2020
- Análise de dados políticos sobre o número de candidadas negras eleitas em 2020
->>>>>>> parent of c62ab56... ipynb
