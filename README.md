@@ -12,6 +12,6 @@ Análise de dados feita com a utilização do Jupyter Notebook.
 **Dados retirados:** 
 
    + Site: [Repostório de dados eleitorais](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
-   + Você também pode acessar o arquivo de dados eleitorais na pasta de dados deste GitHub.
+   + Acessar a aba canditatos e o ano de 2020 no link acima.
    
 Data de download: 05/11/2020
